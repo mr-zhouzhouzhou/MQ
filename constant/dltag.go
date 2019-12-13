@@ -9,4 +9,7 @@ const (
 	PUBLIC_LOG_KEY = "g_strategy_bounty"
 	PUBLIC_LOG_TAG = "BOUNTY"
 	PUBLIC_LOG_MASTER = "BOUNTY"
+	PUBLIC_LOG_HELLO = "g_strategy_bounty"
+	PUBLIC_LOG_WORLD = "BOUNTY"
+
 )
