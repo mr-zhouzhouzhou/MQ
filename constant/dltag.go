@@ -8,4 +8,5 @@ const (
 	//记录public日志，使用的常量
 	PUBLIC_LOG_KEY = "g_strategy_bounty"
 	PUBLIC_LOG_TAG = "BOUNTY"
+	PUBLIC_LOG_MASTER = "BOUNTY"
 )
